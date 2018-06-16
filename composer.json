@@ -1,0 +1,17 @@
+{
+    "name": "aequabit/boilerplate-composer",
+    "description": "PHP Boilerplate with Composer",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "aequabit",
+            "email": "contact@aequabit.de"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "src"
+        }
+    }
+}
